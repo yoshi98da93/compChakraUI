@@ -1,2 +1,2 @@
-# compChakraUI
+# chakraUI
 Created with CodeSandbox
